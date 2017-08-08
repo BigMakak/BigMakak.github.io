@@ -1,0 +1,97 @@
+
+
+div.header {
+
+}
+
+.name {
+  font-size: 500%;
+}
+
+.body {
+  background-image: url("clouds.jpg");
+
+}
+
+.profileImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+
+}
+
+div#divText {
+  float: right;
+}
+
+li {
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
+
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+
+}
+
+h1 {
+  font-size: 200%;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
+
+}
+
+.name {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.about {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3.title-center {
+  text-align: center;
+}
+
+h4 {
+  font-size: 200%;
+}
+
+#linkedInLogo {
+  margin-left: 20px;
+}
+
+#phoneIcon {
+  margin-left: 20px;
+}
+
+#phoneNumber {
+  display: inline-block;
+}
+
+#emailIcon {
+  display: inline-block;
+  margin-left: 20px;
+}
+#email {
+  display: inline-block;
+}
+
+div.progress {
+  display: block;
+}
+
+div#footer {
+  clear: both;
+}
+
+div.col-sm-6 {
+  text-align: center;
+}
