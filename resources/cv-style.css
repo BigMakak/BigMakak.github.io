@@ -1,5 +1,7 @@
 
-
+.container {
+  margin: auto;
+}
 div.header {
 
 }
@@ -13,12 +15,24 @@ div.header {
 
 }
 
+a {
+  font-size: 200%;
+}
 .profileImage {
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
+  margin-top: 20px;
 
+}
+
+#fullStack {
+  text-align: center;
+}
+
+.loading {
+  text-align: center;
 }
 
 div#divText {
@@ -27,7 +41,7 @@ div#divText {
 
 li {
   font-family: 'Raleway', sans-serif;
-  font-size: 150%;
+  font-size: 170%;
 
 }
 
@@ -36,13 +50,17 @@ h3 {
 
 }
 
+h2 {
+  text-align: center;
+}
+
 h1 {
-  font-size: 200%;
+  font-size: 180%;
 }
 
 p {
   font-family: 'Raleway', sans-serif;
-  font-size: 150%;
+  font-size: 190%;
 
 }
 
@@ -61,7 +79,7 @@ h3.title-center {
 }
 
 h4 {
-  font-size: 200%;
+  font-size: 250%;
 }
 
 #linkedInLogo {
@@ -80,7 +98,8 @@ h4 {
   display: inline-block;
   margin-left: 20px;
 }
-#email {
+
+#linkedInP {
   display: inline-block;
 }
 
@@ -88,8 +107,13 @@ div.progress {
   display: block;
 }
 
+#email {
+  display: inline-block;
+}
+
 div#footer {
   clear: both;
+  margin-top: 20px;
 }
 
 div.col-sm-6 {
