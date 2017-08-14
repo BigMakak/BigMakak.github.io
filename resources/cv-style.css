@@ -114,6 +114,7 @@ div.progress {
 div#footer {
   clear: both;
   margin-top: 20px;
+  display: inline;
 }
 
 div.col-sm-6 {
